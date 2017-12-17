@@ -1,6 +1,6 @@
 # crm
 
-CRM System based on a Login -> Home -> Detail design.  
+CRM System  
 - Very flexible and easy to use.  
 - Home page shows a to do list of customers requiring follow-up.  
 - Detail page include text and email functionality.  
